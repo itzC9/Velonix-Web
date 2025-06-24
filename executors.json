@@ -1,0 +1,22 @@
+{
+  "Android": {
+    "Codex": { "link": "https://example.com/codex.apk" },
+    "Delta": { "link": "https://example.com/delta.apk" },
+    "Fluxus": { "link": "https://example.com/fluxus.apk" }
+  },
+  "Windows": {
+    "Codex": { "link": "https://example.com/codex.exe" },
+    "Krnl": { "link": "https://example.com/krnl.exe" },
+    "Synapse": { "link": "https://example.com/synapse.exe" }
+  },
+  "Mac": {
+    "Codex": { "link": "https://example.com/codex.dmg" },
+    "Nova": { "link": "https://example.com/nova.dmg" },
+    "Ghost": { "link": "https://example.com/ghost.dmg" }
+  },
+  "IOS": {
+    "Codex": { "link": "https://example.com/codex.ipa" },
+    "Delta": { "link": "https://example.com/delta.ipa" },
+    "Pangu": { "link": "https://example.com/pangu.ipa" }
+  }
+}
